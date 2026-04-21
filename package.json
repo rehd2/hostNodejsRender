@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "start": "node --watch index.js"
+        "start": "node index.js"
     },
     "dependencies": {
         "cors": "^2.8.6",
@@ -15,5 +15,13 @@
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "type": "commonjs"
+    "type": "commonjs",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rehd2/hostNodejsRender.git"
+    },
+    "bugs": {
+        "url": "https://github.com/rehd2/hostNodejsRender/issues"
+    },
+    "homepage": "https://github.com/rehd2/hostNodejsRender#readme"
 }
